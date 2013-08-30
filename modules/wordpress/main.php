@@ -1,6 +1,6 @@
 <?php
 class wordpress {
-	private $blog_url = 'http://labs.prabhasgupte.com/wp';
+	private $blog_url = ''; // put your Wordpress blog url here
 	private $login_page; 
 	private $home_page;
 	private $logout_page;
